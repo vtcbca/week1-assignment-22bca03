@@ -1,0 +1,6 @@
+string=input('enter string: ')
+a=input('start character:')  
+b=input('Ending character:')
+x=name.index(a)  
+y=name.index(b)
+print('string : ',string[x:y]+1)
